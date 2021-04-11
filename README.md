@@ -49,5 +49,7 @@ Tenho 18 anos e sou apaixonado por programação (Especialmente Front-End 🧡 )
     - React Native Do Zero Ao Profissional
     - React Native
     - Frontend Do Zero Ao Profissional
+    - ReactJS
+    - HTML5 e CSS3
   - [Rocketseat](rocketseat.com.br)
     - **Ignite** ( ReactJS, NextJS, Chakra UI, etc... )
