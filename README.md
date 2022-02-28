@@ -4,7 +4,7 @@
 <hr/>
 
 <div align="justify">
-Tenho 18 anos e sou apaixonado por programação (Especialmente Front-End 🧡 ), estudo sempre que posso e tendo sempre aprender o máximo. Estou em busca de um emprego em que eu possa evoluir como profissional, atualmente estudo <strong>ReactJs</strong>.
+ Tenho 18 anos e sou apaixonado por programação (Especialmente Front-End 🧡 ), estudo sempre que posso e tendo sempre aprender o máximo. Estudo <strong>ReactJs</strong>, <strong>Next.js</strong>, <strong>Typescript</strong> e um pouco de <strong>Node.js</strong>.
 <br><br><br>
 
  <!-- Contacts -->
